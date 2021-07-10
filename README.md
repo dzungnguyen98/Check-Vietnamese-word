@@ -10,6 +10,7 @@ This project is used to check if a word is from Vietnamese.
 Nguyễn -> True <br/>
 John -> False  <br/>
 Hello -> False <br/>
+Rahul -> False <br/>
 ...
 
 # Accuracy:
